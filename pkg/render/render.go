@@ -11,6 +11,7 @@ import (
 	"smt/pkg/models"
 )
 
+// test
 var functions = template.FuncMap{}
 
 var app *config.AppConfig
